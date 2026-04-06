@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01_StandardIO", "L01_StandardIO\L01_StandardIO.vcxproj", "{ED47DD06-E8B1-4119-B8BB-B6CE9FF590CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L02_Variable", "L02_Variable\L02_Variable.vcxproj", "{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED47DD06-E8B1-4119-B8BB-B6CE9FF590CD}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{ED47DD06-E8B1-4119-B8BB-B6CE9FF590CD}.Debug|Any CPU.Build.0 = Debug|Win32
+		{ED47DD06-E8B1-4119-B8BB-B6CE9FF590CD}.Release|Any CPU.ActiveCfg = Release|Win32
+		{ED47DD06-E8B1-4119-B8BB-B6CE9FF590CD}.Release|Any CPU.Build.0 = Release|Win32
+		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Debug|Any CPU.Build.0 = Debug|Win32
+		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Release|Any CPU.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal
