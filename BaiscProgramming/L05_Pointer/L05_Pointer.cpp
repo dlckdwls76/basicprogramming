@@ -37,7 +37,6 @@ int main() {
 }
 */
 
-/*
 #include <iostream>
 
 int main() {
@@ -53,9 +52,9 @@ int main() {
   
     
     return 0;
-}*/
+}
 
-#include<cstdio>
+/*#include<cstdio>
 #include"MyHeader.h"
 
 int main ()
@@ -64,4 +63,22 @@ int main ()
     int A = sizeof(&Sum);
     printf("두수의 합은 : %d",Sum);
     return 0;
-}
+}*/
+/*#include <cstdio>
+#include "MyHeader.h"
+
+int GlobalA = 50; //전역변수
+int main ()
+{
+    int A = 100; //지역변수
+    //변수의 스코프 (scope) : 영역, 생명주기
+    printf("%d\n", A);
+    printf("%d\n",GlobalA);
+    
+    {
+        int C = -20;// 지역변수
+        printf("%d\n", C);
+        
+    }
+    return 0;
+}*/

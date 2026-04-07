@@ -14,6 +14,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L04_function", "L04_functio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L05_Pointer", "L05_Pointer\L05_Pointer.vcxproj", "{422882D1-62F0-4B16-BF89-28CF866CFAF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L06_Pointer_and_Array", "L06_Pointer_and_Array\L06_Pointer_and_Array.vcxproj", "{6648B844-80C8-4012-8D4A-77738C79056F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L07_struct", "L07_struct\L07_struct.vcxproj", "{D490FAE8-9C11-4EF8-94EF-DC63A088421F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{422882D1-62F0-4B16-BF89-28CF866CFAF0}.Release|Any CPU.Build.0 = Release|Win32
 		{422882D1-62F0-4B16-BF89-28CF866CFAF0}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{422882D1-62F0-4B16-BF89-28CF866CFAF0}.Debug|Any CPU.Build.0 = Debug|x64
+		{6648B844-80C8-4012-8D4A-77738C79056F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6648B844-80C8-4012-8D4A-77738C79056F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{6648B844-80C8-4012-8D4A-77738C79056F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6648B844-80C8-4012-8D4A-77738C79056F}.Release|Any CPU.Build.0 = Release|Win32
+		{D490FAE8-9C11-4EF8-94EF-DC63A088421F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D490FAE8-9C11-4EF8-94EF-DC63A088421F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{D490FAE8-9C11-4EF8-94EF-DC63A088421F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D490FAE8-9C11-4EF8-94EF-DC63A088421F}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
