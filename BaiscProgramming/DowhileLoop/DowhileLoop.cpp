@@ -65,7 +65,7 @@ int main() {
     // 예시 7: 이중 for문 - 정사각형
     printf("7. Nested for Loop - Square Pattern:\n");
     for (int i = 1; i <= 4; i++) {
-        for (int j = 1; j <= 4; j++) {
+        for (int j = 1; j <= 2; j++) {
             printf("*");
         }
         printf("\n");
