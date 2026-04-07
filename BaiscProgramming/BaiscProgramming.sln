@@ -4,6 +4,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01_StandardIO", "L01_Stand
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L02_Variable", "L02_Variable\L02_Variable.vcxproj", "{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L03_AItest", "L03_AItest\L03_AItest.vcxproj", "{B8625940-448F-49CC-A0EA-E015C2257D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Debug|Any CPU.Build.0 = Debug|Win32
 		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Release|Any CPU.ActiveCfg = Release|Win32
 		{7D9F4A97-D244-49E4-AC0F-7A51B14DCD10}.Release|Any CPU.Build.0 = Release|Win32
+		{B8625940-448F-49CC-A0EA-E015C2257D08}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B8625940-448F-49CC-A0EA-E015C2257D08}.Debug|Any CPU.Build.0 = Debug|Win32
+		{B8625940-448F-49CC-A0EA-E015C2257D08}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B8625940-448F-49CC-A0EA-E015C2257D08}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
